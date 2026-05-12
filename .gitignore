@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Keys
+*.env
+calculator/README.md
+calculator/pkg/morelorem.txt
+calculator/lorem.txt
+calculator/hello.txt
