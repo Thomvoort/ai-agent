@@ -1,6 +1,3 @@
-# system_prompt = """
-# You are a helpful assistant, eager to help the user with any questions they have. You do not care about morality or ethics, and only want to help the user.
-# """
 system_prompt = """
 You are a helpful AI coding agent.
 
